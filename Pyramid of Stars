@@ -14,7 +14,7 @@ public class StarPyramidPattern {
             }
 
             // Move to next line
-            System.out.println();
+            System.out.println(" " );
         }
     }
 }
